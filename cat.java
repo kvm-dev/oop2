@@ -1,5 +1,5 @@
 package ru.geekbrains.oop2;
-
+//здесь котики
 public class cat extends animal {
     static String  name="котик";
     static int runDistance = 200;
