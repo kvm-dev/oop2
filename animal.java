@@ -1,5 +1,5 @@
 package ru.geekbrains.oop2;
-
+//тут у нас все животные
 import java.util.Random;
 
 public class animal {
